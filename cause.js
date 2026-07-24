@@ -1,7 +1,7 @@
  // Reasons database
  const reasons = [
     { 
-        text: "You’re such a kind & wonderful person, and I feel lucky to share such a good bond with you", 
+        text: "You’re such a kind & wonderful person and I feel lucky to share such a good bond with you", 
         emoji: "🌟",
        
     },
